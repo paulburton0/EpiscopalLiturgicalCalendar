@@ -1,0 +1,22 @@
+{
+  "name": "episcopalliturgicalcalendar",
+  "version": "1.0.0",
+  "description": "Creates an ICS calendar file that can be imported into any supported platform. Shows moveable and fixed events for the Episcopal Liturgical Calendar",
+  "main": "EpiscopalLiturgicalCalendar_ICS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulburton0/EpiscopalLiturgicalCalendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulburton0/EpiscopalLiturgicalCalendar/issues"
+  },
+  "homepage": "https://github.com/paulburton0/EpiscopalLiturgicalCalendar#readme",
+  "dependencies": {
+    "ics": "^2.19.0"
+  }
+}
