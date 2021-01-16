@@ -7,7 +7,7 @@ const {writeFileSync } = require('fs');
 // The script populates all of the Sundays and special days for a calendar
 // year (Jan 1 through Dec 31), not for a church year (1st Advent - Christ
 // the King). Type the year you want to populate here (below):
-const year = 2019;
+const year = 2021;
 
 var events = new Array();
 
